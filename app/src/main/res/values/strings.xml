@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">@string/time_floating_window</string>
+    <string name="time_floating_window">时间悬浮窗</string>
+    <string name="help">提示1：使用前请在应用信息中手动为本APP授予修改系统设置内容的权限，否则将无法使用!\n提示2：本APP仅能在MIUI的开发者选项中包含时间悬浮窗的情况下使用！</string>
+</resources>
